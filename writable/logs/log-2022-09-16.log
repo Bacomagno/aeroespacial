@@ -1,0 +1,102 @@
+CRITICAL - 2022-09-16 12:53:26 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl, mbs...')
+#1 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/index.php(66): require('/home/horizonte...')
+#4 {main}
+CRITICAL - 2022-09-16 12:54:05 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl, mbs...')
+#1 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/index.php(66): require('/home/horizonte...')
+#4 {main}
+CRITICAL - 2022-09-16 12:54:06 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl, mbs...')
+#1 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/index.php(66): require('/home/horizonte...')
+#4 {main}
+CRITICAL - 2022-09-16 12:54:08 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl, mbs...')
+#1 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/index.php(66): require('/home/horizonte...')
+#4 {main}
+CRITICAL - 2022-09-16 12:55:02 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl, mbs...')
+#1 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/index.php(66): require('/home/horizonte...')
+#4 {main}
+CRITICAL - 2022-09-16 13:00:16 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl, mbs...')
+#1 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/index.php(66): require('/home/horizonte...')
+#4 {main}
+CRITICAL - 2022-09-16 13:00:48 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl, mbs...')
+#1 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/index.php(66): require('/home/horizonte...')
+#4 {main}
+CRITICAL - 2022-09-16 13:01:47 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl, mbs...')
+#1 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/index.php(66): require('/home/horizonte...')
+#4 {main}
+CRITICAL - 2022-09-16 13:02:57 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl, mbs...')
+#1 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/index.php(66): require('/home/horizonte...')
+#4 {main}
+CRITICAL - 2022-09-16 13:03:05 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl, mbs...')
+#1 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/index.php(66): require('/home/horizonte...')
+#4 {main}
+CRITICAL - 2022-09-16 13:03:30 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl, mbs...')
+#1 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/index.php(66): require('/home/horizonte...')
+#4 {main}
+CRITICAL - 2022-09-16 13:03:48 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl, mbs...')
+#1 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/index.php(66): require('/home/horizonte...')
+#4 {main}
+CRITICAL - 2022-09-16 13:03:50 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl, mbs...')
+#1 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/index.php(66): require('/home/horizonte...')
+#4 {main}
+CRITICAL - 2022-09-16 13:03:56 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl, mbs...')
+#1 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/index.php(66): require('/home/horizonte...')
+#4 {main}
+CRITICAL - 2022-09-16 13:13:49 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl, mbs...')
+#1 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/index.php(66): require('/home/horizonte...')
+#4 {main}
+CRITICAL - 2022-09-16 13:16:35 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl, mbs...')
+#1 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/index.php(66): require('/home/horizonte...')
+#4 {main}
+CRITICAL - 2022-09-16 13:18:43 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+#0 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('curl, intl, mbs...')
+#1 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/horizonte/web/aeroespacial.unihorizonte.edu.co/public_html/index.php(66): require('/home/horizonte...')
+#4 {main}

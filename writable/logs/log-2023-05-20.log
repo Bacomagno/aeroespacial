@@ -1,0 +1,6 @@
+ERROR - 2023-05-20 18:40:27 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2023-05-20 18:50:12 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2023-05-20 18:50:13 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2023-05-20 18:52:12 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2023-05-20 18:52:12 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2023-05-20 19:02:24 --> Duplicate entry '0' for key 'PRIMARY'

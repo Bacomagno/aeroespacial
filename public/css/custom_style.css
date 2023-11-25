@@ -1,0 +1,26 @@
+    .card-border {
+        box-shadow: 0 0 15px #ddd;
+    }
+
+    .btn-view {
+        position: absolute;
+        margin-top: 130%;
+    }
+
+    .btn-view {
+        display: none;
+    }
+
+    .id-img-card {
+        cursor: pointer;
+    }
+
+    .id-img-card:hover>.btn-view {
+        transition: transform .5s;
+        display: block;
+    }
+
+    .id-img-card:hover>img {
+        transition: transform .5s;
+        transform: scale(1.1);
+    }
